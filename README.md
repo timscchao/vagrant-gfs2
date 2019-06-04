@@ -1,2 +1,2 @@
-# vargant-gfs2
+# vagrant-gfs2
 gfs2 test
